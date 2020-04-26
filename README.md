@@ -1,5 +1,5 @@
 ﻿# COVID-19 Data Manipulation
-***The data was last updated on:*** *2020-04-24 02:21 BST*
+***The data was last updated on:*** *2020-04-26 02:28 BST*
 
 This is a small project to use some of the tools avaliable in python to
 visualise the current coronavirus (SARS-CoV-2) pandemic and to make some
